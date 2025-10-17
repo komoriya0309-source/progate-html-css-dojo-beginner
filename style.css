@@ -33,3 +33,15 @@ li{
   float: left;
   padding: 33px 20px;
 }
+
+.container{
+  padding: 100px 80px;
+}
+
+h1{
+  font-size: 140px;
+}
+
+h2{
+  font-size: 60px;
+}
