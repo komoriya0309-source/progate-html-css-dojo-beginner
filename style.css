@@ -42,6 +42,10 @@ h1{
   font-size: 140px;
 }
 
+h1 span{
+  color: #ff4a4a;
+}
+
 h2{
   font-size: 60px;
 }
