@@ -16,7 +16,7 @@ li {
 }
 
 /* ここからCSSを記述してください */
-header{
+.header{
   height: 90px;
   background-color: #00008b;
   color: #fff;
