@@ -49,3 +49,15 @@ h1 span{
 h2{
   font-size: 60px;
 }
+
+.lesson{
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+h3{
+  font-size: 28px;
+  padding-bottom: 15px;
+  border-bottom: solid 2px #dee7ec;
+}
+
