@@ -58,12 +58,12 @@ h2{
 h3{
   font-size: 28px;
   padding-bottom: 15px;
-  border-bottom: solid 2px #dee7ec;
 }
 
 .contents{
   float: left;
   padding-right: 40px;
+  border-top: solid 2px #dee7ec;
 }
 
 img{
