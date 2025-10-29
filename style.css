@@ -63,7 +63,6 @@ h3{
 .contents{
   float: left;
   padding-right: 40px;
-  border-top: solid 2px #dee7ec;
 }
 
 img{
@@ -74,4 +73,9 @@ img{
 p{
   font-size: 24px;
   padding-bottom: 100px;
+}
+
+.contact{
+  float:left;
+  padding-top: 100px;
 }
