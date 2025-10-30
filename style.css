@@ -55,7 +55,7 @@ h2{
   padding-right: 80px;
 }
 
-h3{
+.lesson h3{
   font-size: 28px;
   padding-bottom: 15px;
 }
@@ -78,4 +78,9 @@ lesson p{
 .contact{
   float:left;
   padding-top: 100px;
+}
+
+.contact h3{
+  font-size: 28px;
+  border-bottom: 2px solid #dee7ec;
 }
