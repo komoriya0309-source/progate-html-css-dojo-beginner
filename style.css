@@ -84,3 +84,7 @@ lesson p{
   font-size: 28px;
   border-bottom: 2px solid #dee7ec;
 }
+
+.contact p{
+  font-size: 10px;
+}
