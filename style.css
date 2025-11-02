@@ -83,8 +83,14 @@ lesson p{
 .contact h3{
   font-size: 28px;
   border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
 }
 
 .contact p{
   font-size: 10px;
+}
+
+.contact input,textarea{
+  font-size: 18px;
+  padding: 20px;
 }
