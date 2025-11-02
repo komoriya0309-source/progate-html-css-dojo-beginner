@@ -76,7 +76,7 @@ lesson p{
 }
 
 .contact{
-  float:left;
+  clear: left;   /*progate内ではこの記述がなくてもOKだが、どうしても右寄りになってしまうのでここでは記述することにした*/
   padding-top: 100px;
 }
 
