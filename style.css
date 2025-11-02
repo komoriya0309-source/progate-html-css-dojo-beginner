@@ -78,16 +78,19 @@ lesson p{
 .contact{
   clear: left;   /*progate内ではこの記述がなくてもOKだが、どうしても右寄りになってしまうのでここでは記述することにした*/
   padding-top: 100px;
+  padding-left: 80px;
 }
 
 .contact h3{
   font-size: 28px;
   border-bottom: 2px solid #dee7ec;
   padding-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 .contact p{
   font-size: 10px;
+  padding-top: 30px;
 }
 
 .contact input,textarea{
