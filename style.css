@@ -96,4 +96,6 @@ lesson p{
 .contact input,textarea{
   font-size: 18px;
   padding: 20px;
+  border: 1px solid #dee7ec;
+  width: 400px;
 }
