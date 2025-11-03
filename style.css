@@ -77,8 +77,7 @@ lesson p{
 
 .contact{
   clear: left;   /*progate内ではこの記述がなくてもOKだが、どうしても右寄りになってしまうのでここでは記述することにした*/
-  padding-top: 100px;
-  padding-left: 80px;
+  padding: 100px 80px 80px 80px;
 }
 
 .contact h3{
@@ -93,9 +92,15 @@ lesson p{
   padding-top: 30px;
 }
 
-.contact input,textarea{
+input,textarea{
   font-size: 18px;
   padding: 20px;
   border: 1px solid #dee7ec;
+  width: 400px;
+}
+
+.submit{
+  background-color: #dee7ec;
+  color: #889eab;
   width: 400px;
 }
