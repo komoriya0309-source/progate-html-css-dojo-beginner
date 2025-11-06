@@ -29,7 +29,7 @@ li {
   padding: 20px 40px;
 }
 
-li{
+.header li{
   float: left;
   padding: 33px 20px;
 }
@@ -119,4 +119,8 @@ input,textarea{
 
 .footer-list{
   float: right;
+}
+
+.footer-list li{
+  padding-bottom: 20px;
 }
