@@ -104,3 +104,10 @@ input,textarea{
   color: #889eab;
   width: 400px;    /*幅がinputとtextareaと同じにならない…*/
 }
+
+.footer{
+  height: 120px;
+  background-color: #2f5167;
+  color: #fff;
+  padding: 40px;
+}
